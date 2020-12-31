@@ -1,2 +1,0 @@
-# nextprev
-Script Nextprev
